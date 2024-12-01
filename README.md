@@ -6,5 +6,8 @@ Barbershop project developed in the database discipline
 ```pip install -r requirements.txt```
 
 ------------------------------------------------------
+
+
 ## Presentation
-Link: https://youtu.be/7sxHIME-Rwk
+<!-- Video só de recordação caso volte aqui -->
+<!-- Link: https://youtu.be/7sxHIME-Rwk-->
